@@ -14,3 +14,9 @@ After that use Java 1.6 because 1.7 doesnt support system DNS, we need external 
 Finally run :
 dont compile it if you have java 1.7 because it will overrite the java 1.6 class files because I am adding the class files in the program
 >java MainProject
+
+Then it will virtual OS will load and will ask you for username and password which are both 'nayan'
+uname: nayan
+pass : nayan
+
+then you will see the same environment as ubuntu (except for the start button)
