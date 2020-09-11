@@ -20,3 +20,6 @@ uname: nayan
 pass : nayan
 
 then you will see the same environment as ubuntu (except for the start button)
+
+
+![GitHub Logo](C:\Users\nbdes\OneDrive\Pictures\paypr1.png)
