@@ -1,4 +1,4 @@
-# Advanced-Payroll-Virtual-Operating-System
+# Advanced-Payroll-Virtual-Operating-System.
 Copy these files into local folder Name it as "Payroll Management System"
 and then Copy all documents to your folder.
 Then there are 5 databases stored in "column" folder and then Set 5 System DNS names as:
