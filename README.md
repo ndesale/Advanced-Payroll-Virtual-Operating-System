@@ -23,3 +23,10 @@ then you will see the same environment as ubuntu (except for the start button)
 
 
 ![Login Window](Image/paypr1.png)
+
+
+
+![Welcome](Image/paypr2.png)
+
+
+![Employee folders/data.  Everything is working concurrently using threading](Image/paypr3.png)
