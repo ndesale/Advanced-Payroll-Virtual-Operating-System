@@ -22,4 +22,4 @@ pass : nayan
 then you will see the same environment as ubuntu (except for the start button)
 
 
-![GitHub Logo](C:\Users\nbdes\OneDrive\Pictures\paypr1.png)
+![Login Window](https://github.com/ndesale/Advanced-Payroll-Virtual-Operating-System/tree/master/Image/paypr1.png)
